@@ -1,0 +1,6 @@
+To Run app source code:
+
+Make sure node js and ionic 3 is install.
+Navigate to the app_source_code folder using the cmd.
+Enter the command "npm install" once you r in the directory.
+Once the command is finish running, type "ionic serve --lab" then press enter
